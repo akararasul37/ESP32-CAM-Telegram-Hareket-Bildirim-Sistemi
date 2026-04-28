@@ -30,3 +30,13 @@ Bu proje, hareket algıladığında sesli uyarı veren ve anlık fotoğraf çeke
 2. Kod içerisindeki `ssid`, `password`, `token` ve `chat_id` alanlarını kendi bilgilerinizle doldurun.
 3. Kart modelini **AI Thinker ESP32-CAM** olarak seçip yüklemeyi tamamlayın.
 
+## Görseller
+<img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/13cc7790-2e41-4423-9b71-31a0ca2aaac4" />
+
+--- 
+
+<img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/c81dafc0-104e-4467-b2b8-a6b2f6c0156b" />
+
+---
+
+
