@@ -2,7 +2,7 @@
 
 **Işık Üniversitesi - Nesnelerin İnterneti (IoT) Dersi Final Projesi**
 
-Bu proje, hareket algıladığında sesli uyarı veren ve anlık fotoğraf çekerek Telegram üzerinden kullanıcıya bildirim gönderen düşük maliyetli bir güvenlik kamerası prototipidir. Özellikle **RHYX M21-45 (GC2145)** kamera sensörü ve **ESP32 Core 3.x** güncel sürümleriyle uyumlu çalışacak şekilde optimize edilmiştir.
+Bu proje, hareket algıladığında sesli uyarı veren ve anlık fotoğraf çekerek Telegram üzerinden kullanıcıya bildirim gönderen düşük maliyetli bir güvenlik kamerası prototipidir.
 
 
 ## ✨ Öne Çıkan Özellikler
@@ -13,10 +13,29 @@ Bu proje, hareket algıladığında sesli uyarı veren ve anlık fotoğraf çeke
 
 ## 🛠 Donanım Listesi
 - ESP32-CAM (AI-Thinker)
-- RHYX M21-45 (GC2145) Kamera Sensörü
+<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/da1cef1e-7568-40ec-9e0a-9cc097d11a4e" />
+
+- ESP32-CAM programlayıcı Modül (FTDI)
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/7de4c351-3bcb-4db1-8b21-907e9a360b12" />
+ 
 - PIR Hareket Sensörü (HC-SR501)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/4c43b1f1-66b7-4f24-92cf-7ddb061a1341" />
+
 - Aktif Buzzer
+<img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/1090ab6e-a538-4deb-baa2-07152eff8903" />
+
 - 7.4V Pil Seti + Voltaj Düşürücü (5V)
+<img width="339" height="339" alt="image" src="https://github.com/user-attachments/assets/89caace9-d68a-48c1-bac9-17f8d48d2e7d" />
+
+
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/bf992263-82fa-493b-9981-78388fbb3ca6" />
+
+- Breadboard ve Jumper Kablolar
+<img width="375" height="375" alt="image" src="https://github.com/user-attachments/assets/5aa3d825-96f5-4af5-9dd2-fe362dfb640c" />
+
+
+<img width="582" height="640" alt="image" src="https://github.com/user-attachments/assets/446b210b-3872-40f4-b06c-8dcb0c7d266e" />
+
 
 ## 🔧 Devre Bağlantıları
 | Bileşen | ESP32-CAM Pin |
@@ -38,5 +57,15 @@ Bu proje, hareket algıladığında sesli uyarı veren ve anlık fotoğraf çeke
 <img width="1530" height="2040" alt="image" src="https://github.com/user-attachments/assets/c81dafc0-104e-4467-b2b8-a6b2f6c0156b" />
 
 ---
+
+<img width="453" height="361" alt="image" src="https://github.com/user-attachments/assets/be46b87b-d531-432f-aab8-80b30a9838a3" />
+
+## Telegram Bildirim Ekranı Görseli
+
+<img width="460" height="1026" alt="image" src="https://github.com/user-attachments/assets/b6c4fa69-e72c-4b34-b647-f08febddd0b6" />
+
+
+
+
 
 
